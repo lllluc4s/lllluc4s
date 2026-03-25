@@ -4,12 +4,12 @@
 
 ### Bem vindo ao meu perfil do GitHub 🖖🏼
 
-- 🔭 Atuando como WedDev e DevOps.
+- 🔭 Atuando como Software Engineer.
 
 📫 Quer me achar?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-ferreira-dos-santos-b8499a161/)](https://www.linkedin.com/in/lllluc4s/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-cc2366?style=flat-square&labelColor=cc2366&logo=instagram&logoColor=white&link=https://www.instagram.com/rafasantos.12/)](https://www.instagram.com/caslur___/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-cc2366?style=flat-square&labelColor=cc2366&logo=instagram&logoColor=white&link=https://www.instagram.com/rafasantos.12/)](https://www.instagram.com/rodrigueslucas_____/)
 
 **Linguagens e Ferramentas:**
 
